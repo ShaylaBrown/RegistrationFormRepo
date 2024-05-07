@@ -50,8 +50,8 @@ vertical-align: middle;
 }
 
 input, textarea {
-  background-color: #0a0a23;
-  border: 1px solid #0a0a23;
+  background-color: #553f03;
+  border: 1px solid #553f03;
   color: #ffffff;
 }
 
@@ -65,7 +65,7 @@ input[type="submit"] {
   margin: 1em auto 1em auto;
   height: 2em;
   font-size: 1.1rem;
-  background-color: #3b3b4f;
+  background-color: #aa790f;
   border-color: white;
   min-width: 300px;
 }
